@@ -1,0 +1,2 @@
+The Bag Size :5
+ int hasNext 
